@@ -1,0 +1,26 @@
+linear binary:
+cs.usfca.edu/~galles/visualization/Search.html
+
+selection:
+Selection Sort | GeeksforGeeks
+
+Bubble sort:
+Bubble Sort Algorithm | GeeksforGeeks
+array length - 1 qeder dovr edir (max index qeder)
+
+Insertion:
+Insertion|DSA GeeksforGeeks
+
+merge:
+Merge | GeeksforGeeks
+tree mentiqile isleyir
+merge nece isleyir
+
+
+
+
+quize dusecek  28apr 16:00
+
+sort, search
+linear, binary, nece isleyir, worst case, best case, time complexity, space complexity
+
